@@ -1,0 +1,9 @@
+{
+  "name": "uxmachine",
+  "version": "1.0.0",
+  "mcpServers": {
+    "uxmachine": {
+      "httpUrl": "https://uxmachine.app/mcp"
+    }
+  }
+}
