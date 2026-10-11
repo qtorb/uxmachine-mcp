@@ -1,5 +1,5 @@
 ---
-description: UXMachine: check what was already measured before changing what users see, and measure after the change.
+description: Check what UXMachine already measured before changing what users see, and measure after the change.
 alwaysApply: true
 ---
 ## UXMachine
