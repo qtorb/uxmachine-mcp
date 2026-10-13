@@ -35,3 +35,7 @@ Use the server URL `https://uxmachine.app/mcp`, or the `mcp.json` in this reposi
 Step-by-step guides for Claude, ChatGPT, Claude Code, Lovable and more: https://uxmachine.app/en/agents?via=github
 
 Privacy: https://uxmachine.app/en/privacy · Terms: https://uxmachine.app/en/legal · Contact: https://uxmachine.app/en/contact
+
+## Cline
+
+See llms-install.md.
