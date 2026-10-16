@@ -32,9 +32,9 @@ Use the server URL `https://uxmachine.app/mcp`, or the `mcp.json` in this reposi
 
 ## Guides
 
-Step-by-step guides for Claude, ChatGPT, Claude Code, Lovable and more: https://uxmachine.app/en/agents?via=github
+Step-by-step guides for Claude, ChatGPT, Claude Code, Lovable and more: https://uxmachine.app/en/agents?utm_source=github&utm_medium=referral&utm_campaign=mcp-repo
 
-Privacy: https://uxmachine.app/en/privacy · Terms: https://uxmachine.app/en/legal · Contact: https://uxmachine.app/en/contact
+Privacy: https://uxmachine.app/en/privacy?utm_source=github&utm_medium=referral&utm_campaign=mcp-repo · Terms: https://uxmachine.app/en/legal?utm_source=github&utm_medium=referral&utm_campaign=mcp-repo · Contact: https://uxmachine.app/en/contact?utm_source=github&utm_medium=referral&utm_campaign=mcp-repo
 
 ## Cline
 
