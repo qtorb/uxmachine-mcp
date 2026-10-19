@@ -1,6 +1,6 @@
 # UXMachine for coding agents
 
-UXMachine measures a web page in a real browser and returns verifiable observations, each with its evidence and its limits. It opens the address on desktop (1280×800) and mobile (390×844) and follows the site's own links for up to 11 pages. For each observation it says what was observed, on which page and at which width, and how to check it. It also says what it could not check and why. It can compare a measurement with an earlier one of the same site.
+UXMachine is a website checker for AI coding agents. It measures a web page in a real browser and returns verifiable observations, each with its evidence and its limits. It opens the address on desktop (1280×800) and mobile (390×844) and follows the site's own links for up to 11 pages. For each observation it says what was observed, on which page and at which width, and how to check it. It also says what it could not check and why. It can compare a measurement with an earlier one of the same site.
 
 It does not judge design, copy or brand, does not fill in forms, does not enter password-protected areas and does not replace an audit or testing with people. Only measure sites you own or may review.
 
